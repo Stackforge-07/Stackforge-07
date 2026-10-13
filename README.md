@@ -128,19 +128,7 @@ Hi! I'm Prakhar, a **CSE (AI & ML) student at Mirai School of Technology**, pass
 
 ---
 
-## 🌍 Open Source
-
-**Learn from real code. Make focused changes. Improve through review.**
-
-
-### 🔧 Pull Request Proposals
-
-| Project | Proposed change | Follow the review |
-| :--- | :--- | :--- |
-| **Rocket.Chat** | Correct direct-message member counts | [PR #42711 ↗](https://github.com/RocketChat/Rocket.Chat/pull/42711) |
-| **Submitty** | Address grading-table sorting | [PR #13494 ↗](https://github.com/Submitty/Submitty/pull/13494) |
-
-<p align="center">
+center">
 <a href="https://github.com/pulls?q=is%3Apr+author%3AStackforge-07"><img alt="Explore all my pull requests" src="https://img.shields.io/badge/Explore_all_my_pull_requests-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 </p>
 
