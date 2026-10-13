@@ -123,15 +123,5 @@ Hi! I'm Prakhar, a **CSE (AI & ML) student at Mirai School of Technology**, pass
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Stackforge-07" alt="Stackforge-07's total contributions, current streak, and longest streak" />
 </p>
-
-<sub>Cards refresh through external services and may be cached. Language percentages describe repository code, not proficiency.</sub>
-
----
-
-center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3AStackforge-07"><img alt="Explore all my pull requests" src="https://img.shields.io/badge/Explore_all_my_pull_requests-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-</p>
-
----
-
+<br>
 <p align="center">Build something useful. Understand how it works. Keep improving.</p>
