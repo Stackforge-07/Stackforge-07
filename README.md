@@ -2,16 +2,6 @@
   <img src="./assets/welcome-landscape.svg" alt="Welcome to Prakhar's GitHub — monochrome dunes and a winding path" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raj-prakhar-854596381"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-101114?style=flat-square&amp;logo=linkedin&amp;logoColor=white" height="28" /></a>
-  <a href="https://leetcode.com/u/Prakhar-11/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-101114?style=flat-square&amp;logo=leetcode&amp;logoColor=white" height="28" /></a>
-  <a href="https://codeforces.com/profile/Stackforge-07"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-101114?style=flat-square&amp;logo=codeforces&amp;logoColor=white" height="28" /></a>
-  <a href="https://www.codechef.com/users/stackforge_11"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-101114?style=flat-square&amp;logo=codechef&amp;logoColor=white" height="28" /></a>
-  <a href="https://github.com/Stackforge-07"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-101114?style=flat-square&amp;logo=github&amp;logoColor=white" height="28" /></a>
-</p>
-
-<p align="center"><strong>First make it work. Then make it better.</strong></p>
-
 <h1 align="center">Prakhar Raj</h1>
 
 <h3 align="center">Competitive Programmer · C++ Developer · Web Developer</h3>
