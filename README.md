@@ -15,7 +15,7 @@ Hi! I'm Prakhar, a **CSE (AI & ML) student at Mirai School of Technology**, pass
 - 💻 Solved **250+ problems on LeetCode**.
 - 🧩 Practicing **C++, data structures, and algorithms** on **Codeforces** and **CodeChef**.
 - 🚀 Building **SkyGuard, Suraksha OS, SnakeGame, and Phone Seller**.
-- 🌱 Exploring **React, backend development, Python, and data analysis** while strengthening my **system design fundamentals**.
+- 🌱 Exploring **React, backend development, Python, and data analysis** while strengthening my **Ai & Ml fundamentals**.
 - 🏆 Active member of the **Competitive Programming Club**.
 - 🌍 Building web applications with **API integrations** and contributing to **open source**.
 
@@ -105,7 +105,7 @@ Hi! I'm Prakhar, a **CSE (AI & ML) student at Mirai School of Technology**, pass
 
 | Platform | Achievements |
 | :--- | :--- |
-| **[LeetCode](https://leetcode.com/u/Prakhar-11/)** | **245 questions solved** |
+| **[LeetCode](https://leetcode.com/u/Prakhar-11/)** | **250+ questions solved** |
 | **[Codeforces](https://codeforces.com/profile/Stackforge-07)** | Peak rating **904** |
 | **[CodeChef](https://www.codechef.com/users/stackforge_11)** | Peak rating **1266** |
 
@@ -132,27 +132,6 @@ Hi! I'm Prakhar, a **CSE (AI & ML) student at Mirai School of Technology**, pass
 
 **Learn from real code. Make focused changes. Improve through review.**
 
-### 🟣 Merged Contributions
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3>🔥 freeCodeCamp</h3>
-<p>Open-source coding education.</p>
-<a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3AStackforge-07+is%3Amerged"><img alt="View merged contributions to freeCodeCamp" src="https://img.shields.io/badge/Merged_PRs-View-8957E5?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
-</td>
-<td width="33%" valign="top">
-<h3>🌸 Kana Dojo</h3>
-<p>Interactive Japanese learning.</p>
-<a href="https://github.com/lingdojo/kana-dojo/pulls?q=is%3Apr+author%3AStackforge-07+is%3Amerged"><img alt="View merged contributions to Kana Dojo" src="https://img.shields.io/badge/Merged_PRs-View-8957E5?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
-</td>
-<td width="33%" valign="top">
-<h3>📚 Library Management</h3>
-<p>Library Management System.</p>
-<a href="https://github.com/samarkumar4355/Library_Management_System/pulls?q=is%3Apr+author%3AStackforge-07+is%3Amerged"><img alt="View merged contributions to Library Management System" src="https://img.shields.io/badge/Merged_PRs-View-8957E5?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
-</td>
-</tr>
-</table>
 
 ### 🔧 Pull Request Proposals
 
