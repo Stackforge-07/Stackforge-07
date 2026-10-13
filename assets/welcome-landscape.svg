@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="480" viewBox="0 0 1400 480" role="img" aria-labelledby="title desc">
+<title id="title">Welcome to Prakhar's GitHub</title><desc id="desc">A monochrome landscape of layered dunes beneath a pale sky, with a winding silver path.</desc>
+<defs>
+<linearGradient id="sky" x2="0" y2="1"><stop stop-color="#888b90"/><stop offset="1" stop-color="#f3f3f1"/></linearGradient>
+<linearGradient id="back" x2=".3" y2="1"><stop stop-color="#515256"/><stop offset="1" stop-color="#111214"/></linearGradient>
+<linearGradient id="front" x2=".5" y2="1"><stop stop-color="#25262a"/><stop offset="1" stop-color="#070809"/></linearGradient>
+<linearGradient id="path" x2="0" y2="1"><stop stop-color="#838589"/><stop offset="1" stop-color="#ecece9"/></linearGradient>
+</defs>
+<rect width="1400" height="480" fill="url(#sky)"/>
+<text x="700" y="143" text-anchor="middle" font-family="monospace" font-size="38" letter-spacing="1" fill="#222326">Welcome to Prakhar's GitHub</text>
+<text x="700" y="194" text-anchor="middle" font-family="monospace" font-size="28" fill="#55575a">&lt;/&gt;</text>
+<path d="M0 323 Q112 310 211 270 Q289 292 354 314 T557 318 Q642 275 728 301 Q793 273 881 313 Q999 336 1136 311 T1400 288 V480 H0Z" fill="#45464a"/>
+<path d="M0 349 Q114 310 211 270 Q300 317 390 341 Q474 365 620 319 Q751 287 850 339 Q971 377 1122 329 Q1282 297 1400 302 V480 H0Z" fill="url(#back)"/>
+<path d="M707 319 Q617 344 748 357 Q902 377 737 405 Q599 433 553 480 H910 Q923 444 969 421 Q1007 393 846 368 Q745 350 756 344 Q756 332 707 319Z" fill="url(#path)"/>
+<path d="M0 394 Q161 335 344 351 Q457 354 661 412 Q747 439 553 480 H0Z" fill="url(#front)"/>
+<path d="M1400 340 Q1210 331 1114 384 Q1039 423 910 480 H1400Z" fill="url(#front)"/>
+<path d="M0 440 Q261 357 478 393" fill="none" stroke="#55565a" stroke-opacity=".2" stroke-width="2"/>
+<path d="M1058 430 Q1219 351 1400 366" fill="none" stroke="#66676b" stroke-opacity=".18" stroke-width="2"/>
+</svg>
