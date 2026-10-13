@@ -26,7 +26,7 @@
 
 Hi! I'm Prakhar, a **CSE (AI & ML) student at Mirai School of Technology**, passionate about **Software Development** and **Competitive Programming**. I'm working toward becoming a well-rounded developer — from writing clean code and solving algorithmic problems to building useful web applications.
 
-- 💻 Solved **245 problems on LeetCode**, with **50 Days** and **100 Days** badges for 2026.
+- 💻 Solved **250+ problems on LeetCode**, with **50 Days** and **100 Days** badges for 2026.
 - 🧩 Practicing **C++, data structures, and algorithms** on **Codeforces** and **CodeChef**.
 - 🚀 Building **SkyGuard, Suraksha OS, SnakeGame, and Phone Seller**.
 - 🌱 Exploring **React, backend development, Python, and data analysis** while strengthening my **system design fundamentals**.
