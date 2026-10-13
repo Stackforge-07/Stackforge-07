@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+<title id="title">Stackforge-07</title><desc id="desc">Building for the web. Learning in the open.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1826"/><stop offset="1" stop-color="#172838"/></linearGradient><linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#93c5fd"/></linearGradient></defs>
+<rect width="960" height="240" rx="18" fill="url(#bg)"/>
+<g stroke="#334658" opacity=".45" fill="none"><path d="M700 0v240M760 0v240M820 0v240M880 0v240M940 0v240M660 40h300M660 100h300M660 160h300M660 220h300"/></g>
+<rect x="40" y="38" width="32" height="4" rx="2" fill="#5eead4"/>
+<text x="86" y="45" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3" fill="#a5bdcc">STACKFORGE-07</text>
+<text x="40" y="117" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="48" fill="#f0f7ff">Building for the web.</text>
+<text x="42" y="158" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#abc3d3">Learning in the open.</text>
+<text x="42" y="209" font-family="monospace" font-size="12" letter-spacing="2" fill="#5eead4">PROJECTS / EXPERIMENTS / OPEN SOURCE</text>
+<g stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="m762 83-38 37 38 37M838 83l38 37-38 37M817 65l-32 110"/></g>
+</svg>
